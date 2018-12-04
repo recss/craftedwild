@@ -116,16 +116,36 @@
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241372/evanston__chic-farm/DPP_0012.jpg"></a>
       </a>
 
-      <a id="jotoba-wheeling" v-on:click="blueImp($event, 'jotoba-wheeling')">
+      <a id="concrete-university" v-on:click="blueImp($event, 'concrete-university')">
+        <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1543940250/university-village__concrete-loft/DPP_0860.jpg">
+        <p class="style">Concrete Loft</p>
+        <p class="location">University Village, Chicago, IL</p>
+
+        <!-- gallery -->
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940250/university-village__concrete-loft/DPP_0860.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940249/university-village__concrete-loft/DPP_0857.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940249/university-village__concrete-loft/DPP_0858.jpg"></a>
+
+        <!-- counters, shelves -->
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940254/university-village__concrete-loft/DPP_0867.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940252/university-village__concrete-loft/DPP_0864.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940252/university-village__concrete-loft/DPP_0863.jpg"></a>
+
+        <!-- cabinets -->
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940251/university-village__concrete-loft/DPP_0861.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940253/university-village__concrete-loft/DPP_0865.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940254/university-village__concrete-loft/DPP_0866.jpg"></a>
+      </a>
+
+      <!-- <a id="jotoba-wheeling" v-on:click="blueImp($event, 'jotoba-wheeling')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241421/wheeling__jatoba-brazilian-cherry/IMG_0298.jpg">
         <p class="style">Jatoba Brazilian Cherry</p>
         <p class="location">Wheeling, IL</p>
 
-        <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241421/wheeling__jatoba-brazilian-cherry/IMG_0298.jpg"></a>
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241422/wheeling__jatoba-brazilian-cherry/IMG_0296.jpg"></a>
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241426/wheeling__jatoba-brazilian-cherry/IMG_0304.jpg"></a>
-      </a>
+      </a> -->
     </section>
   </section>
 </template>
