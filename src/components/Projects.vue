@@ -128,13 +128,11 @@
 
         <!-- counters, shelves -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940254/university-village__concrete-loft/DPP_0867.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940252/university-village__concrete-loft/DPP_0864.jpg"></a>
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940252/university-village__concrete-loft/DPP_0863.jpg"></a>
 
         <!-- cabinets -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940251/university-village__concrete-loft/DPP_0861.jpg"></a>
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940253/university-village__concrete-loft/DPP_0865.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940254/university-village__concrete-loft/DPP_0866.jpg"></a>
       </a>
 
       <!-- <a id="jotoba-wheeling" v-on:click="blueImp($event, 'jotoba-wheeling')">

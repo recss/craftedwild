@@ -11,6 +11,11 @@
     <Testimonials/>
     <SocialMedia/>
     <Map/>
+    <div style="margin: 1em 0; grid-column: span 12; display: flex; justify-content: center;">
+      <a href="http://www.homeadvisor.com/rated.CraftedWild.62195262.html" target="_blank" style="margin: 0 auto; display: block;">
+        <img alt="CraftedWild is a HomeAdvisor Screened & Approved Pro" style="height: 6em; display: block;" src="http://www.homeadvisor.com/images/sp-badges/soap-solid-border.png?sp=62195262&key=9b0fd57a3144ed94bbc31aee01d88a6a">
+      </a>
+    </div>
     <Contact v-if="showContact()" />
   </div>
 </template>
