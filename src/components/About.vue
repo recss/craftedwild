@@ -1,0 +1,136 @@
+<template>
+  <section id="about" class="grid--c12">
+    <h2>About Us</h2>
+
+	<div class="profile kip">
+		<div class="profile-pic"></div>
+		<p><b>Kyle</b> brings over a decade worth of operations, sales and customer experience to the table and leads business operations at CraftedWild. As a newcomer to the cabinetry and remodeling industries, he understood that the high quality product is a table stake. The white-glove, catered experience delivered to each client, however, is what makes CraftedWild standout.</p>
+	</div>
+
+	<div class="profile kornel">
+		<p><b>Kornel</b> is a third-generation wood craftsman, and leads CraftedWild’s production operations. From creating a design based on client’s vision, to the entire manufacturing process from planning, to first cut, to installation and inspection – Kornel applies highest level of quality during every step.</p>
+		<div class="profile-pic"></div>
+	</div>
+
+	<!-- <div class="profile-text">
+		<p>By passionately delivering both the personalized experience our clients deserve and innovative high-quality products they want, we are challenging the cabinetry status quo.  We promise to keep you informed and in-control throughout the process, while making sure you are THRILLED with the result.</p>
+
+		<p>We are CraftedWild, a full-service cabinetry shop specializing in the design, manufacturing and installation of high-end modern and contemporary kitchens, closets and more.</p>
+	</div> -->
+  </section>
+</template>
+
+<script>
+export default {
+  name: 'About',
+  data () {
+    return {
+      msg: 'Welcome to Your Vue.js App'
+    }
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+#about {
+	padding: 1em;
+	color: #fff;
+	background-color: #000;
+	/* background-color: rgb(58,58,60); */
+	line-height: 1.4;
+}
+
+.profile {
+	width: 70vw;
+	margin: 0 auto;
+	padding-bottom: 1.5em;
+	display: flex;
+		flex-flow: row nowrap;
+		justify-content: center;
+		align-items: flex-start;
+}
+
+.profile p,
+.profile-text p {
+	max-width: 40em;
+}
+
+.profile-pic {
+	height: 10em;
+	flex: 0 0 10em;
+	border: 1px solid #fff;
+	border-radius: 10em;
+	box-shadow: 0px 0px 10px 2.5px rgba(255,255,255,0.75);
+	background-size: cover;
+}
+
+.kip p {
+	text-align: left;
+}
+
+.kip .profile-pic {
+	margin-right: 2em;
+	background-image: url("../assets/DPP_0633C__Kip.jpg");
+	background-position: center -14px;
+	transform: rotate(5deg);
+}
+
+.kornel p {
+	text-align: right;
+}
+
+.kornel .profile-pic {
+	margin-left: 2em;
+	background-image: url("../assets/DPP_0633C__Kornel.jpg");
+	background-position: center top;
+	transform: rotate(-3deg);
+}
+
+.profile-text {
+	width: 70vw;
+	margin: 1.25em auto 0;
+	border-top: 1px solid rgba(255,255,255,0.15);
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	text-align: left;
+	display: flex;
+		flex-flow: column nowrap;
+		justify-content: center;
+		align-items: center;
+}
+
+@media (max-width: 700px) {
+	.profile {
+		flex-flow: column nowrap;
+		align-items: center;
+	}
+
+	.profile,
+	.profile-text {
+		width: 80vw;
+	}
+
+	.profile-pic {
+		width: 10em;
+	}
+
+	.profile p {
+		padding-top: 1em;
+		text-align: left;
+	}
+
+	.kornel .profile-pic {
+		order: 0;
+	}
+
+	.kornel p:first-of-type {
+		order: 1;
+	}
+
+	.kip .profile-pic,
+	.kornel .profile-pic {
+		margin: 0;
+	}
+}
+</style>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    
+    <title>CraftedWild &mdash; Custom-Made Cabinetry</title>
+    <link rel="shortcut icon" type="image/png" href="static/favicon.png" />
+
+    <link href="https://fonts.googleapis.com/css?family=La+Belle+Aurore|Poppins" rel="stylesheet">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.33.0/css/blueimp-gallery.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/brands.css" integrity="sha384-Pln/erVatVEIIVh7sfyudOXs5oajCSHg7l5e2Me02e3TklmDuKEhQ8resTIwyI+w"
+      crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/fontawesome.css" integrity="sha384-rnr8fdrJ6oj4zli02To2U/e6t1qG8dvJ8yNZZPsKHcU7wFK3MGilejY5R/cUc5kf"
+      crossorigin="anonymous">
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+
+    <!-- for Process.vue -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/domtastic/0.12.1/domtastic.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        var accordionSection = $('#accordion li');
+
+        function toggleAccordion() {
+          accordionSection.removeClass('active');
+          $(this).addClass('active');
+        }
+
+        accordionSection.on('click', toggleAccordion);
+      });
+    </script>
+
+    <!-- for Projects.vue -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.33.0/js/blueimp-gallery.min.js"></script>
+    <script>
+      // abc
+    </script>
+
+    <!-- for Navigation.vue -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/12.1.5/js/smooth-scroll.polyfills.min.js"></script>
+    <script>
+      var scroll = new SmoothScroll('nav a[href*="#"]');
+    </script>
+
+    <!-- for schema.org -->
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "GeneralContractor",
+        "name": "CraftedWild",
+        "image": "https://craftedwild.com/img/logo/logotype-gr.jpg",
+        "@id": "",
+        "url": "https://craftedwild.com",
+        "telephone": "(815) 290-9453",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "101 Kelly St., Unit A",
+          "addressLocality": "Elk Grove Village",
+          "addressRegion": "IL",
+          "postalCode": "60007",
+          "addressCountry": "US"
+        },
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "",
+          "closes": ""
+        },
+        "sameAs": [
+          "https://www.facebook.com/CraftedWild",
+          "https://plus.google.com/102250719853684560418",
+          "https://www.instagram.com/craftedwild/",
+          "https://www.linkedin.com/company/craftedwild-inc.",
+          "https://www.pinterest.com/craftedwild/modern-european-kitchens/",
+          "https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry"
+        ]
+      }
+    </script>
+  </body>
+</html>
