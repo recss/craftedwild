@@ -91,16 +91,16 @@
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241348/chicago__transitional/IMG_9989.jpg"></a>
       </a>
 
-      <a id="sea-norridge" v-on:click="blueImp($event, 'sea-norridge')">
-        <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241379/norridge__sea-of-walnut/Jerry_22.jpg">
-        <p class="style">Sea of Walnut</p>
-        <p class="location">Norridge, IL</p>
+      <a id="minimalist-chicago" v-on:click="blueImp($event, 'minimalist-chicago')">
+        <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1548005462/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_and_dining.jpg">
+        <p class="style">Minimalist, Warm</p>
+        <p class="location">Chicago, IL</p>
 
         <!-- gallery -->
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241379/norridge__sea-of-walnut/Jerry_22.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241382/norridge__sea-of-walnut/Jerry_20.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241380/norridge__sea-of-walnut/Jerry_23.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241376/norridge__sea-of-walnut/Jerry_25.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1548005462/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_and_dining.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1548005464/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_detail1.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1548005464/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_detail2.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1548005459/lakeview__minimalist-warm/Lakeview_Apartment2_Entry.jpg"></a>
       </a>
 
       <a id="chic-evanston" v-on:click="blueImp($event, 'chic-evanston')">
