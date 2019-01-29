@@ -26,6 +26,16 @@
           </td>
         </tr>
       </table>
+
+      <table style="width: 80px;" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>
+            <a href="https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry">
+              <img src="https://st.hzcdn.com/static/badge_47_8@2x.png" alt="Kyle Kiperman in Elk Grove Village, IL on Houzz" width="80" height="80" border="0" />
+            </a>
+          </td>
+        </tr>
+      </table>
       <!--  -->
     </div>
     <Contact v-if="showContact()" />
