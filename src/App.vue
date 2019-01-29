@@ -17,7 +17,7 @@
         <img alt="CraftedWild is a HomeAdvisor Screened & Approved Pro" style="height: 6em; display: block;" src="http://www.homeadvisor.com/images/sp-badges/soap-solid-border.png?sp=62195262&key=9b0fd57a3144ed94bbc31aee01d88a6a">
       </a>
 
-      <table style="width: 80px;" cellpadding="0" cellspacing="0">
+      <table style="width: 80px; margin-right: 1em;" cellpadding="0" cellspacing="0">
         <tr>
           <td>
             <a href="https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry">
