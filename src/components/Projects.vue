@@ -98,7 +98,7 @@
 
       <!--  -->
       <!--  -->
-
+      
       <a id="contemporary-chicago" v-on:click="blueImp($event, 'contemporary-chicago')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1525628596/lakeview__contemporary-matte-white/owner/Lakeview1_kitchen2_ERA.jpg">
         <p class="style">Contemporary, Matte White</p>
@@ -272,7 +272,7 @@ export default {
 
 #projects-gallery a {
   /* height: 20em; */
-  flex-basis: calc(100%/5.5);
+  flex-basis: calc(100%/4.5);
   margin-bottom: 1em;
   padding-bottom: 0.25em;
   /* border: 1px solid #333; */
