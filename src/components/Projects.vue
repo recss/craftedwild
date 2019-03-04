@@ -23,6 +23,82 @@
     </div>
 
     <section id="projects-gallery">
+      <a id="walnut-accents-kildeer" v-on:click="blueImp($event, 'walnut-accents-kildeer')">
+        <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1551725308/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_4.jpg">
+        <p class="style">Bright with Walnut Accents</p>
+        <p class="location">Kildeer, IL</p>
+
+        <!-- gallery -->
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725306/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_7.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725308/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_14.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725307/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_13.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725306/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_11.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725305/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_12.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725303/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_5.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725303/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_9.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725302/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_8.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725301/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_10.jpg"></a>
+      </a>
+
+      <!--  -->
+      <!--  -->
+
+      <a id="oasis-kildeer" v-on:click="blueImp($event, 'oasis-kildeer')">
+        <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1551725178/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_23.jpg">
+        <p class="style">5-Piece Oasis</p>
+        <p class="location">Kildeer, IL</p>
+
+        <!-- gallery -->
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725222/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_25.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725222/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_27.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725182/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_15.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725181/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_18.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725178/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_20.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725177/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_17.jpg"></a>
+      </a>
+
+      <!--  -->
+      <!--  -->
+
+      <a id="pop-barrington" v-on:click="blueImp($event, 'pop-barrington')">
+        <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1551724761/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_2.jpg">
+        <p class="style">Three-Tone with POP</p>
+        <p class="location">Barrington, IL</p>
+
+        <!-- gallery -->
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724854/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_16.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724854/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_4.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724765/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_9.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724764/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_8.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724761/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_12.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724761/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_2.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724760/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_11.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724759/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_10.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724758/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_5.jpg"></a>
+      </a>
+
+      <!--  -->
+      <!--  -->
+
+      <a id="elegance-highland" v-on:click="blueImp($event, 'elegance-highland')">
+        <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1551724905/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_2.jpg">
+        <p class="style">Black &amp; White Elegance</p>
+        <p class="location">Highland Park, IL</p>
+
+        <!-- gallery -->
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725002/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_15.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724904/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_17.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724903/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_11.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724902/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_14.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724902/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_4.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724899/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_12.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724898/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_3.jpg"></a>
+        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724898/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_1.jpg"></a>
+      </a>
+
+      <!--  -->
+      <!--  -->
+
       <a id="contemporary-chicago" v-on:click="blueImp($event, 'contemporary-chicago')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1525628596/lakeview__contemporary-matte-white/owner/Lakeview1_kitchen2_ERA.jpg">
         <p class="style">Contemporary, Matte White</p>
@@ -196,7 +272,7 @@ export default {
 
 #projects-gallery a {
   /* height: 20em; */
-  flex-basis: calc(100%/4.5);
+  flex-basis: calc(100%/5.5);
   margin-bottom: 1em;
   padding-bottom: 0.25em;
   /* border: 1px solid #333; */
