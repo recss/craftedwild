@@ -6,10 +6,10 @@
     	<img src="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_900/v1555946205/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_5.jpg" style="border: 2px solid #fff;">
     </div>
 
-    <div style="width: 80vw; margin: 0 auto; display: flex; flex-flow: row nowrap; flex: 0 0 auto; justify-content: center;">
-    	<div style="flex-basis: 50%; padding: 2em; text-align: left;"><strong>Kyle</strong> brings over a decade worth of operations, sales and customer experience to the table and leads business operations at CraftedWild. As a newcomer to the cabinetry and remodeling industries, he understood that the high quality product is a table stake. The white-glove, catered experience delivered to each client, however, is what makes CraftedWild standout.</div>
+    <div class="profile-img-full">
+    	<div class="profile-img-full__kip"><strong>Kyle</strong> brings over a decade worth of operations, sales and customer experience to the table and leads business operations at CraftedWild. As a newcomer to the cabinetry and remodeling industries, he understood that the high quality product is a table stake. The white-glove, catered experience delivered to each client, however, is what makes CraftedWild standout.</div>
 
-    	<div style="flex-basis: 50%; padding: 2em; text-align: left;"><strong>Kornel</strong> is a third-generation wood craftsman, and leads CraftedWild’s production operations. From creating a design based on client’s vision, to the entire manufacturing process from planning, to first cut, to installation and inspection – Kornel applies highest level of quality during every step.</div>
+    	<div class="profile-img-full__kornel"><strong>Kornel</strong> is a third-generation wood craftsman, and leads CraftedWild’s production operations. From creating a design based on client’s vision, to the entire manufacturing process from planning, to first cut, to installation and inspection – Kornel applies highest level of quality during every step.</div>
     </div>
 
 	<!-- <div class="profile kip">
@@ -68,6 +68,22 @@ export default {
 	max-width: 40em;
 }
 
+.profile-img-full {
+	width: 80vw;
+	margin: 0 auto;
+	display: flex;
+	flex-flow: row nowrap;
+	flex: 0 0 auto;
+	justify-content: center;
+}
+
+.profile-img-full__kip,
+.profile-img-full__kornel {
+	flex-basis: 50%;
+	padding: 2em;
+	text-align: left;
+}
+
 .profile-pic {
 	height: 10em;
 	flex: 0 0 10em;
@@ -121,6 +137,20 @@ export default {
 	.profile,
 	.profile-text {
 		width: 80vw;
+	}
+
+	.profile-img-full {
+		flex-flow: column nowrap;
+	}
+
+	.profile-img-full__kip {
+		flex-basis: 100%;
+		padding: 2em 2em 1em;
+	}
+
+	.profile-img-full__kornel {
+		flex-basis: 100%;
+		padding: 1em 2em 2em;
 	}
 
 	.profile-pic {
