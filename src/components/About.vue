@@ -61,7 +61,7 @@ export default {
 	flex: 0 0 10em;
 	border: 1px solid #fff;
 	border-radius: 10em;
-	box-shadow: 0px 0px 10px 2.5px rgba(255,255,255,0.75);
+	/*box-shadow: 0px 0px 10px 2.5px rgba(255,255,255,0.75);*/
 	background-size: cover;
 }
 
@@ -71,9 +71,9 @@ export default {
 
 .kip .profile-pic {
 	margin-right: 2em;
-	background-image: url("../assets/DPP_0633C__Kip.jpg");
-	background-position: center -14px;
-	transform: rotate(5deg);
+	background-image: url("https://res.cloudinary.com/craftedwild/image/upload/v1555947543/CraftedWild_team/kip--barrington.jpg");
+	background-position: center;
+	/*transform: rotate(5deg);*/
 }
 
 .kornel p {
@@ -82,9 +82,9 @@ export default {
 
 .kornel .profile-pic {
 	margin-left: 2em;
-	background-image: url("../assets/DPP_0633C__Kornel.jpg");
-	background-position: center top;
-	transform: rotate(-3deg);
+	background-image: url("https://res.cloudinary.com/craftedwild/image/upload/v1555947543/CraftedWild_team/kornel--barrington.jpg");
+	background-position: -6px top;
+	/*transform: rotate(-3deg);*/
 }
 
 .profile-text {

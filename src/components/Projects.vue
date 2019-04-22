@@ -23,6 +23,48 @@
     </div>
 
     <section id="projects-gallery">
+      <a id="modern-gem" v-on:click="blueImp($event, 'modern-gem')">
+        <img src="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1555946205/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_23.jpg">
+        <p class="style">Mid-Century Modern Gem</p>
+        <p class="location">Barrington Hills, IL</p>
+
+        <!-- gallery -->
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946205/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_23.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946208/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_29.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946206/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_22.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946767/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_14.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946204/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_30.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946767/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_21.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946207/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_24.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946207/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_25.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946204/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_16.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946767/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_8.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946767/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_10.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946208/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_27.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946207/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_26.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946208/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_28.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946767/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_15.jpg"></a>
+
+        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1555946205/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_19.jpg"></a>
+      </a>
+
+      <!--  -->
+      <!--  -->
+
       <a id="walnut-accents-kildeer" v-on:click="blueImp($event, 'walnut-accents-kildeer')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1551725308/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_4.jpg">
         <p class="style">Bright with Walnut Accents</p>
@@ -30,13 +72,21 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725306/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_7.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725308/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_14.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725307/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_13.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725306/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_11.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725305/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_12.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725303/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_5.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725303/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_9.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725302/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_8.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725301/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_10.jpg"></a>
       </a>
 
@@ -50,10 +100,15 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725222/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_25.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725222/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_27.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725182/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_15.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725181/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_18.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725178/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_20.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725177/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_17.jpg"></a>
       </a>
 
@@ -67,13 +122,21 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724854/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_16.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724854/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_4.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724765/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_9.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724764/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_8.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724761/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_12.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724761/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_2.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724760/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_11.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724759/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_10.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724758/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_5.jpg"></a>
       </a>
 
@@ -87,12 +150,19 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551725002/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_15.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724904/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_17.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724903/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_11.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724902/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_14.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724902/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_4.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724899/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_12.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724898/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_3.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1551724898/highland-park__bw-elegance/pdetphotography-craftedwild-cabinetry-2146sheridan-highlandpark_1.jpg"></a>
       </a>
 
@@ -106,15 +176,26 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1525628565/lakeview__contemporary-matte-white/owner/Lakeview1_kitchen_island_back_ERA.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1525630084/lakeview__contemporary-matte-white/DPP_0717.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1525630076/lakeview__contemporary-matte-white/DPP_0718.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1525630083/lakeview__contemporary-matte-white/DPP_0719.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1525630084/lakeview__contemporary-matte-white/DPP_0720.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1525630076/lakeview__contemporary-matte-white/DPP_0721.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1525630085/lakeview__contemporary-matte-white/DPP_0723.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1525630085/lakeview__contemporary-matte-white/DPP_0724.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1525630085/lakeview__contemporary-matte-white/DPP_0725.jpg"></a>
       </a>
+
+      <!--  -->
+      <!--  -->
 
       <a id="penthouse-desplaines" v-on:click="blueImp($event, 'penthouse-desplaines')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241350/des-plaines__industrial-penthouse/IMG_0697.jpg">
@@ -123,11 +204,18 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241350/des-plaines__industrial-penthouse/IMG_0697.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241353/des-plaines__industrial-penthouse/IMG_0701.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241366/des-plaines__industrial-penthouse/IMG_0702.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241365/des-plaines__industrial-penthouse/IMG_0704.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241369/des-plaines__industrial-penthouse/IMG_0705.jpg"></a>
       </a>
+
+      <!--  -->
+      <!--  -->
 
       <a id="glossy-schaumburg" v-on:click="blueImp($event, 'glossy-schaumburg')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241401/schaumburg__bw-splash/DPP_0641.jpg">
@@ -136,10 +224,16 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241401/schaumburg__bw-splash/DPP_0641.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241389/schaumburg__bw-splash/DPP_0635.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241395/schaumburg__bw-splash/DPP_0637.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241408/schaumburg__bw-splash/DPP_0638.jpg"></a>
       </a>
+
+      <!--  -->
+      <!--  -->
 
       <a id="open-portage" v-on:click="blueImp($event, 'open-portage')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241393/portage-park__open-concept/IMG_9465.jpg">
@@ -148,24 +242,18 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241393/portage-park__open-concept/IMG_9465.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241398/portage-park__open-concept/IMG_9464.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241395/portage-park__open-concept/IMG_9466.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241397/portage-park__open-concept/IMG_9467.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241398/portage-park__open-concept/IMG_9473.jpg"></a>
       </a>
 
-      <a id="transitional-chicago" v-on:click="blueImp($event, 'transitional-chicago')">
-        <img src="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241345/chicago__transitional/IMG_9978.jpg">
-        <p class="style">Transitional, Modern</p>
-        <p class="location">Chicago, IL</p>
-
-        <!-- gallery -->
-        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241345/chicago__transitional/IMG_9978.jpg"></a>
-        <a href="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241332/chicago__transitional/IMG_9973.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241349/chicago__transitional/IMG_9974.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241347/chicago__transitional/IMG_9984.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241348/chicago__transitional/IMG_9989.jpg"></a>
-      </a>
+      <!--  -->
+      <!--  -->
 
       <a id="minimalist-chicago" v-on:click="blueImp($event, 'minimalist-chicago')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1548005462/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_and_dining.jpg">
@@ -174,10 +262,16 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1548005462/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_and_dining.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1548005464/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_detail1.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1548005464/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_detail2.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1548005459/lakeview__minimalist-warm/Lakeview_Apartment2_Entry.jpg"></a>
       </a>
+
+      <!--  -->
+      <!--  -->
 
       <a id="chic-evanston" v-on:click="blueImp($event, 'chic-evanston')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241363/evanston__chic-farm/DPP_0003.jpg">
@@ -186,11 +280,18 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241363/evanston__chic-farm/DPP_0003.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241369/evanston__chic-farm/DPP_0001.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241375/evanston__chic-farm/DPP_0004.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241380/evanston__chic-farm/DPP_0008.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241372/evanston__chic-farm/DPP_0012.jpg"></a>
       </a>
+
+      <!--  -->
+      <!--  -->
 
       <a id="concrete-university" v-on:click="blueImp($event, 'concrete-university')">
         <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1543940250/university-village__concrete-loft/DPP_0860.jpg">
@@ -199,27 +300,21 @@
 
         <!-- gallery -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940250/university-village__concrete-loft/DPP_0860.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940249/university-village__concrete-loft/DPP_0857.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940249/university-village__concrete-loft/DPP_0858.jpg"></a>
 
         <!-- counters, shelves -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940254/university-village__concrete-loft/DPP_0867.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940252/university-village__concrete-loft/DPP_0863.jpg"></a>
 
         <!-- cabinets -->
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940251/university-village__concrete-loft/DPP_0861.jpg"></a>
+
         <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1543940253/university-village__concrete-loft/DPP_0865.jpg"></a>
       </a>
-
-      <!-- <a id="jotoba-wheeling" v-on:click="blueImp($event, 'jotoba-wheeling')">
-        <img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241421/wheeling__jatoba-brazilian-cherry/IMG_0298.jpg">
-        <p class="style">Jatoba Brazilian Cherry</p>
-        <p class="location">Wheeling, IL</p>
-
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241421/wheeling__jatoba-brazilian-cherry/IMG_0298.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241422/wheeling__jatoba-brazilian-cherry/IMG_0296.jpg"></a>
-        <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,x_-0.42,y_-0.38/v1523241426/wheeling__jatoba-brazilian-cherry/IMG_0304.jpg"></a>
-      </a> -->
     </section>
   </section>
 </template>
@@ -278,13 +373,13 @@ export default {
   /* border: 1px solid #333; */
   /* border-radius: 0 0 5px 5px; */
   background-color: #333;
-  opacity: 0.7;
+  opacity: 1;
   transition: 1s;
 }
 
 #projects-gallery a:focus,
 #projects-gallery a:hover {
-  opacity: 1;
+  opacity: 0.7;
 }
 
 #projects-gallery img {
