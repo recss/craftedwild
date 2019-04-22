@@ -24,7 +24,7 @@
 
     <section id="projects-gallery">
       <a id="modern-gem" v-on:click="blueImp($event, 'modern-gem')">
-        <img src="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_600/v1555946205/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_23.jpg">
+        <img src="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_600/v1555946205/barrington__modern-gem/pdetphotography-craftedwild-280-leeds-barrington_23.jpg" style="width: 100%; object-position: center top;">
         <p class="style">Mid-Century Modern Gem</p>
         <p class="location">Barrington Hills, IL</p>
 
