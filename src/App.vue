@@ -13,7 +13,7 @@
     <Map/>
     <div style="margin: 1em 0; grid-column: span 12; display: flex; justify-content: center; align-items: center;">
       <!--  -->
-      <a href="http://www.homeadvisor.com/rated.CraftedWild.62195262.html" target="_blank" style="margin-right: 1.5em; display: block;">
+      <a href="http://www.homeadvisor.com/rated.CraftedWild.62195262.html" target="_blank" style="margin-right: 1em; display: block;">
         <img alt="CraftedWild is a HomeAdvisor Screened & Approved Pro" style="height: 6em; display: block;" src="http://www.homeadvisor.com/images/sp-badges/soap-solid-border.png?sp=62195262&key=9b0fd57a3144ed94bbc31aee01d88a6a">
       </a>
 
@@ -27,7 +27,7 @@
         </tr>
       </table>
 
-      <table style="width: 80px;" cellpadding="0" cellspacing="0">
+      <table style="width: 80px; margin-right: 1em;" cellpadding="0" cellspacing="0">
         <tr>
           <td>
             <a href="https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry">
@@ -36,6 +36,16 @@
           </td>
         </tr>
       </table>
+
+	  <table style="width: 80px;" cellpadding="0" cellspacing="0">
+		  <tr>
+			  <td>
+					<a href="https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry">
+				  	<img src="https://st.hzcdn.com/static/badge_49_8@2x.png" alt="Kornel Tadeuszuk in Elk Grove Village, IL on Houzz" width="80" height="80" border="0" />
+					</a>
+				</td>
+			</tr>
+		</table>
       <!--  -->
     </div>
     <Contact v-if="showContact()" />
