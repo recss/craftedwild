@@ -48,6 +48,11 @@
 		</table>
       <!--  -->
     </div>
+
+	<div style="margin-bottom: 1em; grid-column: 2/12; color: rgba(255,255,255,0.35); display: flex; justify-content: center; align-items: center;" class="signature">
+		Made by &nbsp; <a href="https://www.re-css.com/" target="_blank">Kevin K. Johnson, II</a>.
+	</div>
+
     <Contact v-if="showContact()" />
   </div>
 </template>
@@ -158,6 +163,18 @@ h2 {
 
 .grid--c3 {
   grid-column: span 3;
+}
+
+.signature a {
+  border-bottom: 1px solid rgba(255,255,255,0.5);
+  color: rgba(255,255,255,0.35);
+  transition: 0.75s;
+}
+
+.signature a:focus,
+.signature a:hover {
+  border-bottom: 1px solid rgba(255,255,255,0.75);
+  color: rgb(226,0,26);
 }
 
 @media (max-width: 700px) {
