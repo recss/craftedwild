@@ -46,7 +46,9 @@
 					</td>
 				</tr>
 			</table>
+
       <!--  -->
+			
 			<a href="https://www.google.com/url?q=https://issuu.com/sandow-media/docs/ch_lx60_digital?e%3D6134964/77429769&sa=D&source=hangouts&ust=1596416839297000&usg=AFQjCNHqu4cTMu8CRI98YRZt5AQYSexRYg" target="_blank">
 				<img src="https://res.cloudinary.com/craftedwild/image/upload/v1596330835/CraftedWild_acclaim/logo-luxe-white.png" alt="Luxe MagazineLuxe Interiors + Design">
 			</a>
