@@ -11,13 +11,17 @@
     <Testimonials/>
     <SocialMedia/>
     <Map/>
-    <div style="margin: 1em 0; grid-column: span 12; display: flex; justify-content: center; align-items: center;">
+    <div class="acclaim-grid" style="margin: 1em 0; border-top: 1px solid rgba(255,255,255,0.1); padding: 2em 0; grid-column: span 12; display: flex; justify-content: center; align-items: center;">
+
+			<p class="acclaim">Acknowledgements &amp; Acclaim</p>
+
 			<!--  -->
-      <a href="http://www.homeadvisor.com/rated.CraftedWild.62195262.html" target="_blank" style="margin-right: 1em; display: block;">
+
+      <a href="http://www.homeadvisor.com/rated.CraftedWild.62195262.html" target="_blank" class="acclaim-icons" style="margin-right: 1em; display: block;">
         <img alt="CraftedWild is a HomeAdvisor Screened & Approved Pro" style="height: 6em; display: block;" src="http://www.homeadvisor.com/images/sp-badges/soap-solid-border.png?sp=62195262&key=9b0fd57a3144ed94bbc31aee01d88a6a">
       </a>
 
-      <table style="width: 80px; margin-right: 1em;" cellpadding="0" cellspacing="0">
+      <table class="acclaim-icons" style="width: 80px; margin-right: 1em;" cellpadding="0" cellspacing="0">
         <tr>
           <td>
             <a href="https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry">
@@ -27,7 +31,7 @@
         </tr>
       </table>
 
-      <table style="width: 80px; margin-right: 1em;" cellpadding="0" cellspacing="0">
+      <table class="acclaim-icons" style="width: 80px; margin-right: 1em;" cellpadding="0" cellspacing="0">
         <tr>
           <td>
             <a href="https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry">
@@ -37,7 +41,7 @@
         </tr>
       </table>
 			
-			<table style="width: 80px;" cellpadding="0" cellspacing="0">
+			<table class="acclaim-icons" style="width: 80px; margin-right: 1em;" cellpadding="0" cellspacing="0">
 				<tr>
 					<td>
 						<a href="https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry">
@@ -47,17 +51,32 @@
 				</tr>
 			</table>
 
+			<table class="acclaim-icons" style="width: 80px; margin-right: 1em;" cellpadding="0" cellspacing="0">
+				<tr>
+					<td>
+						<a href="https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry">
+							<img src="https://st.hzcdn.com/static/badge_54_8@2x.png" alt="Kornel Tadeuszuk in Elk Grove Village, IL on Houzz" width="80" height="80" border="0" />
+						</a>
+					</td>
+				</tr>
+			</table>
+
       <!--  -->
 
 			<a href="https://www.google.com/url?q=https://issuu.com/sandow-media/docs/ch_lx60_digital?e%3D6134964/77429769&sa=D&source=hangouts&ust=1596416839297000&usg=AFQjCNHqu4cTMu8CRI98YRZt5AQYSexRYg" target="_blank">
-				<img src="https://res.cloudinary.com/craftedwild/image/upload/v1596330835/CraftedWild_acclaim/logo-luxe-white.png" alt="Luxe Interiors + Design">
+				<img src="https://res.cloudinary.com/craftedwild/image/upload/v1596330835/CraftedWild_acclaim/logo-luxe-white.png" alt="Luxe Interiors + Design" class="acclaim-icons" style="height: 50px; margin-right: 1em;">
 			</a>
 
 			<a href="https://www.google.com/url?q=https://chicago.curbed.com/2018/9/24/17885994/chicago-home-tour-mies-van-der-rohe-commonwealth-promenade&sa=D&source=hangouts&ust=1596416839297000&usg=AFQjCNF6RS51_6votxpfB6hDCtFqihBPFw" target="_blank">
-				<img src="https://res.cloudinary.com/craftedwild/image/upload/v1596330835/CraftedWild_acclaim/curbed-chicago_logo.jpg" alt="Chicago Curbed">
+				<img src="https://res.cloudinary.com/craftedwild/image/upload/v1596330835/CraftedWild_acclaim/curbed-chicago_logo.jpg" alt="Chicago Curbed" class="acclaim-icons" style="height: 80px; margin-right: 1em;">
 			</a>
 
-			<p><a href="https://www.journal-topics.com/pageview/viewer/EGBusinessJournal-2018-12-13#page=0" target="_blank">Elk Grove Business Journal</a></p>
+			<p class="acclaim-icons social" style="text-align: left;">
+				<a href="https://www.journal-topics.com/pageview/viewer/EGBusinessJournal-2018-12-13#page=0" target="_blank">
+					Elk Grove
+					<br>Business Journal
+				</a>
+			</p>
 			<!--  -->
     </div>
 
@@ -189,6 +208,23 @@ h2 {
   color: rgb(226,0,26);
 }
 
+.social a {
+  border-bottom: 1px solid rgba(255,255,255,0.50);
+  color: rgba(255,255,255,0.75);
+  transition: 0.75s;
+}
+
+.social a:focus,
+.social a:hover {
+  border-bottom: 1px solid rgba(255,255,255,1);
+  color: rgb(226,0,26);
+}
+
+.acclaim {
+	margin-right: 3em;
+	color: hsla(0, 0%, 100%, 0.75);
+}
+
 @media (max-width: 700px) {
   .grid {
     grid-template-rows:
@@ -205,5 +241,17 @@ h2 {
     /* navigation, hero, about, process, projects, testimonials, footer */
     grid-column-gap: 0;
   }
+
+	.acclaim-grid {
+		flex-flow: column;
+	}
+
+	.acclaim {
+		margin-right: 0;
+	}
+
+	.acclaim-icons {
+		margin-bottom: 1em;
+	}
 }
 </style>
