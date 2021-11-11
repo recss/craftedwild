@@ -102,8 +102,8 @@
 
 		<a id="glenview__sea-walnut" v-on:click="blueImp($event, 'glenview__sea-walnut')">
 			<img src="https://res.cloudinary.com/craftedwild/image/upload/v1636615331/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_1.jpg" style="width: 100%; object-position: center top;">
-			<p class="style">Walnut and Turquoise Allure</p>
-			<p class="location">Berwyn, IL</p>
+			<p class="style">Sea of Walnut</p>
+			<p class="location">Glenview, IL</p>
 
 			<!-- gallery -->
 			<!-- <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614772/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_4.jpg"></a> -->
