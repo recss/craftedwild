@@ -362,7 +362,7 @@ svg {
 #hero {
   height: 70vh;
 	/* background-image: url("../assets/lakeview_era_001.jpg"); */
-	background-image: url("/static/lakeview_era_001.min.jpg");
+	background-image: url("https://res.cloudinary.com/craftedwild/image/upload/v1636613363/CraftedWild_opener/pdetphotography-craftedwild-330wdiversey-chicago_21.jpg");
   background-size: cover;
   background-position: center;
   display: flex;

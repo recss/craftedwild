@@ -2,12 +2,6 @@
   <section id="process" class="grid--c12">
     <h2>The Process</h2>
 
-		<div class="profile-text">
-			<p>By passionately delivering both the personalized experience our clients deserve and innovative high-quality products they want, we are challenging the cabinetry status quo.  We promise to keep you informed and in-control throughout the process, while making sure you are THRILLED with the result.</p>
-
-			<p>We are CraftedWild, a full-service cabinetry shop specializing in the design, manufacturing and installation of high-end modern and contemporary kitchens, closets and more.</p>
-		</div>
-
 		<ul id="accordion">
 			<li class="active">
 				<div class="section-title">
@@ -45,7 +39,7 @@
 				</div>    
 			</li>
 
-			<li>
+			<!-- <li>
 				<div class="section-title">
 					<h2>
 						Delivery
@@ -55,7 +49,7 @@
 				<div class="section-content">
 					<p>We carefully deliver your one-of-a-kind creation and get to work on installation.</p>
 				</div>    
-			</li>
+			</li> -->
 		</ul>
   </section>
 </template>

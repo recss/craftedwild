@@ -7,28 +7,18 @@
     </div>
 
     <div class="profile-img-full">
-    	<div class="profile-img-full__kip"><strong>Kyle</strong> brings over a decade worth of operations, sales and customer experience to the table and leads business operations at CraftedWild. As a newcomer to the cabinetry and remodeling industries, he understood that the high quality product is a table stake. The white-glove, catered experience delivered to each client, however, is what makes CraftedWild standout.</div>
+    	<div class="profile-img-full__kip"><strong>Kyle</strong> brings operations, sales, and HR experience gained from his time at top tier service organizations.  As the CEO, he leads business operations and sales at CraftedWild.  Kyle believes that a high quality product is a table stake, and what makes CraftedWild standout is the catered service and experience delivered to each client.</div>
 
-    	<div class="profile-img-full__kornel"><strong>Kornel</strong> is a third-generation wood craftsman, and leads CraftedWild’s production operations. From creating a design based on client’s vision, to the entire manufacturing process from planning, to first cut, to installation and inspection – Kornel applies highest level of quality during every step.</div>
+    	<div class="profile-img-full__kornel"><strong>Kornel</strong> is a third-generation wood craftsman.  As the COO, he leads CraftedWild's manufacturing and field operations.  From managing the full cycle of a complex manufacturing process, to ensuring that each project is brought to life in the field - Kornel applies highest level of quality and thoughtfulness.</div>
     </div>
 
-	<!-- <div class="profile kip">
-		<div class="profile-pic"></div>
-		<p><strong>Kyle</strong> brings over a decade worth of operations, sales and customer experience to the table and leads business operations at CraftedWild. As a newcomer to the cabinetry and remodeling industries, he understood that the high quality product is a table stake. The white-glove, catered experience delivered to each client, however, is what makes CraftedWild standout.</p>
-	</div>
+		<h2>Our Commitment</h2>
 
-	<div class="profile kornel">
-		<p><strong>Kornel</strong> is a third-generation wood craftsman, and leads CraftedWild’s production operations. From creating a design based on client’s vision, to the entire manufacturing process from planning, to first cut, to installation and inspection – Kornel applies highest level of quality during every step.</p>
-		<div class="profile-pic"></div>
-	</div> -->
+		<div class="profile-text" style="border-top: none;">
+			<p>By passionately delivering both the personalized experience our clients deserve and innovative high-quality products they want, we are challenging the cabinetry status quo.  We promise to keep you informed and in-control throughout the process, while making sure you are THRILLED with the result.</p>
 
-	<!--  -->
-
-	<!-- <div class="profile-text">
-		<p>By passionately delivering both the personalized experience our clients deserve and innovative high-quality products they want, we are challenging the cabinetry status quo.  We promise to keep you informed and in-control throughout the process, while making sure you are THRILLED with the result.</p>
-
-		<p>We are CraftedWild, a full-service cabinetry shop specializing in the design, manufacturing and installation of high-end modern and contemporary kitchens, closets and more.</p>
-	</div> -->
+			<p>We are CraftedWild, a full-service cabinetry shop specializing in the design, manufacturing and installation of high-end modern and contemporary kitchens, closets and more.</p>
+		</div>
   </section>
 </template>
 

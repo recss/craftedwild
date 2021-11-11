@@ -23,29 +23,112 @@
     </div>
 
     <section id="projects-gallery">
-		<a id="west-town-sleek" v-on:click="blueImp($event, 'west-town-sleek')">
-			<img src="https://res.cloudinary.com/craftedwild/image/upload/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_17.jpg" style="width: 100%; object-position: center top;">
-			<p class="style">Sleek</p>
-			<p class="location">West Town, Chicago, IL</p>
+		<!--  -->
+		<!--  -->
+
+		<a id="wheaton-warm-continuous-grain" v-on:click="blueImp($event, 'wheaton-warm-continuous-grain')">
+			<img src="https://res.cloudinary.com/craftedwild/image/upload/v1636614772/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_3.jpg" style="width: 100%; object-position: center top;">
+			<p class="style">Warm Continuous Grain</p>
+			<p class="location">Wheaton, IL</p>
 
 			<!-- gallery -->
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_17.jpg"></a>
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614772/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_3.jpg"></a>
 
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_18.jpg"></a>
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614772/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_4.jpg"></a>
 
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_4.jpg"></a>
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614773/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_2.jpg"></a>
 
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_9.jpg"></a>
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614773/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_5.jpg"></a>
 
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_8.jpg"></a>
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614773/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_7.jpg"></a>
 
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_14.jpg"></a>
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614774/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_15.jpg"></a>
 
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_12.jpg"></a>
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614774/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_10.jpg"></a>
 
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_2.jpg"></a>
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614774/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_13.jpg"></a>
+		</a>
 
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585331213/west-town__sleek/pdetphotography-craftedwild-714throop-chicago-12_22_2019_16.jpg"></a>
+		<!--  -->
+		<!--  -->
+
+		<a id="west-town__white-olive-timeless" v-on:click="blueImp($event, 'west-town__white-olive-timeless')">
+			<img src="https://res.cloudinary.com/craftedwild/image/upload/v1636615707/west-town__white-olive-timeless/DSC_7581.jpg" style="width: 100%; object-position: center top;">
+			<p class="style">White, Olive, and Timeless</p>
+			<p class="location">West Town, IL</p>
+
+			<!-- gallery -->
+			<!-- <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614772/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_4.jpg"></a> -->
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615707/west-town__white-olive-timeless/DSC_7581.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615708/west-town__white-olive-timeless/DSC_7595.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615708/west-town__white-olive-timeless/DSC_7609.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615708/west-town__white-olive-timeless/DSC_7627.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615708/west-town__white-olive-timeless/DSC_7732.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615708/west-town__white-olive-timeless/DSC_7708.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615708/west-town__white-olive-timeless/DSC_7864.jpg"></a>
+		</a>
+
+		<!--  -->
+		<!--  -->
+
+		<a id="berwyn__walnut-turquoise-allure" v-on:click="blueImp($event, 'berwyn__walnut-turquoise-allure')">
+			<img src="https://res.cloudinary.com/craftedwild/image/upload/v1636615037/berwyn__walnut-turquoise-allure/L1006132.jpg" style="width: 100%; object-position: center;">
+			<p class="style">Walnut and Turquoise Allure</p>
+			<p class="location">Berwyn, IL</p>
+
+			<!-- gallery -->
+			<!-- <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614772/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_4.jpg"></a> -->
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615037/berwyn__walnut-turquoise-allure/L1006132.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615036/berwyn__walnut-turquoise-allure/L1006188.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615037/berwyn__walnut-turquoise-allure/L1006248.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615037/berwyn__walnut-turquoise-allure/L1006215.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615037/berwyn__walnut-turquoise-allure/L1006162.jpg"></a>
+		</a>
+
+		<!--  -->
+		<!--  -->
+
+		<a id="glenview__sea-walnut" v-on:click="blueImp($event, 'glenview__sea-walnut')">
+			<img src="https://res.cloudinary.com/craftedwild/image/upload/v1636615331/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_1.jpg" style="width: 100%; object-position: center top;">
+			<p class="style">Walnut and Turquoise Allure</p>
+			<p class="location">Berwyn, IL</p>
+
+			<!-- gallery -->
+			<!-- <a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636614772/wheaton__warm-continuous-grain/pdetphotography-craftedwild-eddycourt-wheaton-11_7_2020_4.jpg"></a> -->
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615331/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_1.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615331/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_4.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615331/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_13.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615330/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_8.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615330/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_9.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615330/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_10.jpg"></a>
+			
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615332/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_25.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615332/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_16.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615332/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_6.jpg"></a>
+
+			<a href="hhttps://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615332/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_23.jpg"></a>
+
+			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1636615332/glenview__sea-walnut/pdetphotography-craftedwild-1737primrose-glenview-6_21_2021_11.jpg"></a>
 		</a>
 
 		<!--  -->
@@ -151,56 +234,6 @@
 		<!--  -->
 		<!--  -->
 
-		<a id="walnut-accents-kildeer" v-on:click="blueImp($event, 'walnut-accents-kildeer')">
-			<img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1551725308/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_4.jpg">
-			<p class="style">Bright with Walnut Accents</p>
-			<p class="location">Kildeer, IL</p>
-
-			<!-- gallery -->
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725306/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_7.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725308/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_14.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725307/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_13.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725306/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_11.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725305/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_12.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725303/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_5.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725303/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_9.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725302/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_8.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725301/kildeer__bright-walnut-accents/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_10.jpg"></a>
-		</a>
-
-		<!--  -->
-		<!--  -->
-
-		<a id="oasis-kildeer" v-on:click="blueImp($event, 'oasis-kildeer')">
-			<img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1551725178/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_23.jpg">
-			<p class="style">5-Piece Oasis</p>
-			<p class="location">Kildeer, IL</p>
-
-			<!-- gallery -->
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725222/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_25.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725222/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_27.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725182/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_15.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725181/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_18.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725178/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_20.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1551725177/kildeer__5-piece-oasis/pdetphotography-craftedwild-cabinetry-21211-laurel-kildeer_17.jpg"></a>
-		</a>
-
-		<!--  -->
-		<!--  -->
-
 		<a id="pop-barrington" v-on:click="blueImp($event, 'pop-barrington')">
 			<img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1551724761/barrington__three-tone-pop/pdetphotography-craftedwild-cabinetry-851-summit-barrington_2.jpg">
 			<p class="style">Three-Tone with POP</p>
@@ -283,64 +316,6 @@
 		<!--  -->
 		<!--  -->
 
-		<a id="penthouse-desplaines" v-on:click="blueImp($event, 'penthouse-desplaines')">
-			<img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241350/des-plaines__industrial-penthouse/IMG_0697.jpg">
-			<p class="style">Industrial Penthouse</p>
-			<p class="location">Des Plaines, IL</p>
-
-			<!-- gallery -->
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241350/des-plaines__industrial-penthouse/IMG_0697.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241353/des-plaines__industrial-penthouse/IMG_0701.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241366/des-plaines__industrial-penthouse/IMG_0702.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241365/des-plaines__industrial-penthouse/IMG_0704.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241369/des-plaines__industrial-penthouse/IMG_0705.jpg"></a>
-		</a>
-
-		<!--  -->
-		<!--  -->
-
-		<a id="glossy-schaumburg" v-on:click="blueImp($event, 'glossy-schaumburg')">
-			<img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241401/schaumburg__bw-splash/DPP_0641.jpg">
-			<p class="style">Glossy White with Bold Backsplash</p>
-			<p class="location">Schaumburg, IL</p>
-
-			<!-- gallery -->
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241401/schaumburg__bw-splash/DPP_0641.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241389/schaumburg__bw-splash/DPP_0635.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241395/schaumburg__bw-splash/DPP_0637.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241408/schaumburg__bw-splash/DPP_0638.jpg"></a>
-		</a>
-
-		<!--  -->
-		<!--  -->
-
-		<a id="open-portage" v-on:click="blueImp($event, 'open-portage')">
-			<img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241393/portage-park__open-concept/IMG_9465.jpg">
-			<p class="style">Open Concept, Painted Shakers</p>
-			<p class="location">Portage Park, IL</p>
-
-			<!-- gallery -->
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241393/portage-park__open-concept/IMG_9465.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241398/portage-park__open-concept/IMG_9464.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241395/portage-park__open-concept/IMG_9466.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241397/portage-park__open-concept/IMG_9467.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241398/portage-park__open-concept/IMG_9473.jpg"></a>
-		</a>
-
-		<!--  -->
-		<!--  -->
-
 		<a id="minimalist-chicago" v-on:click="blueImp($event, 'minimalist-chicago')">
 			<img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1548005462/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_and_dining.jpg">
 			<p class="style">Minimalist, Warm</p>
@@ -354,26 +329,6 @@
 			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1548005464/lakeview__minimalist-warm/Lakeview_Apartment2_kitchen_detail2.jpg"></a>
 
 			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1548005459/lakeview__minimalist-warm/Lakeview_Apartment2_Entry.jpg"></a>
-		</a>
-
-		<!--  -->
-		<!--  -->
-
-		<a id="chic-evanston" v-on:click="blueImp($event, 'chic-evanston')">
-			<img src="http://res.cloudinary.com/craftedwild/image/upload/c_scale,w_400/v1523241363/evanston__chic-farm/DPP_0003.jpg">
-			<p class="style">Chic Farm</p>
-			<p class="location">Evanston, IL</p>
-
-			<!-- gallery -->
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241363/evanston__chic-farm/DPP_0003.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241369/evanston__chic-farm/DPP_0001.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241375/evanston__chic-farm/DPP_0004.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241380/evanston__chic-farm/DPP_0008.jpg"></a>
-
-			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,w_1500/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1523241372/evanston__chic-farm/DPP_0012.jpg"></a>
 		</a>
 
 		<!--  -->
