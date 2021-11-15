@@ -163,7 +163,7 @@
 		<a id="noble-square-precision" v-on:click="blueImp($event, 'noble-square-precision')">
 			<img src="https://res.cloudinary.com/craftedwild/image/upload/v1585330964/noble-square__minimalistic-precision/pdetphotography-craftedwild-330wdiversey-chicago_6.jpg" style="width: 100%; object-position: center top;">
 			<p class="style">Minimalistic Precision</p>
-			<p class="location">Noble Square, Chicago, IL</p>
+			<p class="location">Lincoln Park, Chicago, IL</p>
 
 			<!-- gallery -->
 			<a href="https://res.cloudinary.com/craftedwild/image/upload/c_scale,h_800/l_CraftedWild_logos:logo_white,o_60,w_0.25,g_north_west/v1585330964/noble-square__minimalistic-precision/pdetphotography-craftedwild-330wdiversey-chicago_6.jpg"></a>
