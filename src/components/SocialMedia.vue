@@ -3,9 +3,9 @@
     <div class="address">
       <ul>
         <li class="name">CraftedWild</li>
-        <li>101 Kelly St., Unit A</li>
-        <li>Elk Grove Village, IL</li>
-        <li>60007</li>
+        <li>907 Lunt Ave.</li>
+        <li>Schaumburg, IL</li>
+        <li>60193</li>
 
         <li class="number">(815) 290.WILD</li>
         <li class="social"><a href="mailto:info@craftedwild.com">info@craftedwild.com</a></li>
