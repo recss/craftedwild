@@ -65,6 +65,17 @@
 				</tr>
 			</table>
 
+      <!-- 2022 -->
+      <table class="acclaim-icons" style="width: 80px; margin-right: 1em;" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>
+            <a href="https://www.houzz.com/pro/craftedwild/craftedwild-cabinetry">
+              <img src="https://st.hzcdn.com/static/badge_57_8@2x.png" alt="Kornel Tadeuszuk in Schaumburg, IL on Houzz" width="80" height="80" border="0" />
+            </a>
+          </td>
+        </tr>
+      </table>
+
       <!--  -->
 
 			<a href="https://www.google.com/url?q=https://issuu.com/sandow-media/docs/ch_lx60_digital?e%3D6134964/77429769&sa=D&source=hangouts&ust=1596416839297000&usg=AFQjCNHqu4cTMu8CRI98YRZt5AQYSexRYg" target="_blank">

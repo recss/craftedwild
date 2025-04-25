@@ -3,9 +3,9 @@
     <div class="address">
       <ul>
         <li class="name">CraftedWild</li>
-        <li>907 Lunt Ave.</li>
-        <li>Schaumburg, IL</li>
-        <li>60193</li>
+        <li>1021 Butterfield Rd.</li>
+        <li>Vernon Hills, IL</li>
+        <li>60061</li>
 
         <li class="number">(815) 290.WILD</li>
         <li class="social"><a href="mailto:info@craftedwild.com">info@craftedwild.com</a></li>
